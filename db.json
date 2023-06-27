@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "lidia",
+      "precio": "400",
+      "id": 7
+    },
+    {
+      "nombre": "David",
+      "precio": 200,
+      "id": 8
+    },
+    {
+      "nombre": "David",
+      "precio": 50,
+      "id": 9
+    },
+    {
+      "nombre": "David",
+      "precio": 50,
+      "id": 10
+    },
+    {
+      "nombre": "David",
+      "precio": 50,
+      "id": 11
+    },
+    {
+      "nombre": "lidia",
+      "precio": 5,
+      "id": 12
+    },
+    {
+      "nombre": "David",
+      "precio": 20,
+      "id": 13
+    },
+    {
+      "nombre": "David",
+      "precio": 1,
+      "id": 14
+    }
+  ]
+}
